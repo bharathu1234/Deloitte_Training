@@ -10,6 +10,8 @@ public class MainClass {
 		User user = new User(3, "Hello", "Bharath", "Umashankar", "password", "E");
 	
 		udao.save(user);
+		
+		
 	
 	}
 	
